@@ -7,6 +7,7 @@ const OrientationExamples = () => (
       id="appointment-time-auto"
       label="Select an appointment time"
       className="md-cell"
+      showSeconds
     />
     <TimePicker
       id="appointment-time-portrait"
